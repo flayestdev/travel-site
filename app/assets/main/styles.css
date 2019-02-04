@@ -1,0 +1,9 @@
+body {
+    background-color: #125;
+    color: #fff;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, .2);
+    -webkit-filter: hue-rotate(120deg);
+            filter: hue-rotate(120deg);
+}
+

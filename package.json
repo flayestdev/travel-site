@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/flayestdev/travel-site#readme",
   "devDependencies": {
-    "gulp": "^4.0.0"
+    "autoprefixer": "^9.4.7",
+    "gulp": "^4.0.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-watch": "^5.0.1"
   }
 }
