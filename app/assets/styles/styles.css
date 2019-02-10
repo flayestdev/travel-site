@@ -1,8 +1,13 @@
 body {
-    background-color: #125;
+    background-color: rgba(22, 25, 31, 0.988);
     color: #fff;
     padding: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, .2);
-    filter: hue-rotate(120deg);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
